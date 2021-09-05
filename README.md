@@ -24,3 +24,5 @@ BME 280 environment sensor
 
 ![Weather Station](/img/weatherstation.jpg)
 
+More informaion in my video on this project:
+[![Prototype](https://img.youtube.com/vi/RPdqvnzPHA4/0.jpg)](https://www.youtube.com/watch?v=RPdqvnzPHA4)
